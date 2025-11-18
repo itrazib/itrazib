@@ -78,12 +78,14 @@ Hello! I'm a passionate **MERN Stack Developer from Bangladesh. I love building 
 ![Snake Grid](https://github.com/itrazib/contribution-snake/blob/output/grid.svg)
 
 
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+### 📊 GitHub Statistics:
+
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=itrazib&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrazib&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
 | ------------- | ------------- |
 
+
 ### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=itrazib&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=itrazib" /></a> |
 | ------------- | ------------- |
 
 <br/>
@@ -95,4 +97,4 @@ Hello! I'm a passionate **MERN Stack Developer from Bangladesh. I love building 
 ---
 
 <!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itrazib&label=Profile%20views&color=0e75b6&style=flat" alt="itrazib" /> </p>
