@@ -18,7 +18,7 @@
 
 <h1>🚀 About Me</h1>
 
-Hello! I'm a passionate **MERN Stack Developer from Bangladesh. I love building modern web applications with clean architecture and efficient backend systems. I enjoy learning new technologies and continuously improving my skills.
+Hello! I'm a passionate <b>MERN Stack Developer</b> from Bangladesh. I love building modern web applications with clean architecture and efficient backend systems. I enjoy learning new technologies and continuously improving my skills.
 
 <!--- about --->
 <h1>📌 Current Activities</h1> 
