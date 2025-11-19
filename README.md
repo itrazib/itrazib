@@ -38,7 +38,7 @@ Hello! I'm a passionate **MERN Stack Developer from Bangladesh. I love building 
 <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/razib-das-5a803a2a2/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="itrazib" height="30" width="40" /></a>
-    <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
+    <a href="https://discord.com/users/razib.das" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
     
   </p>
 </div>
@@ -71,11 +71,7 @@ Hello! I'm a passionate **MERN Stack Developer from Bangladesh. I love building 
 
 <br/>
 
-<!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/itrazib/contribution-snake/blob/output/grid.svg)
 
 
 ### 📊 GitHub Statistics:
